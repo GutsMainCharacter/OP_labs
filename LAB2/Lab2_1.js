@@ -9,5 +9,3 @@ const greet = (name) => {
 
 greet(name);
 console.log(birthYear);
-
-module.exports = { greet };

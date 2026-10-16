@@ -17,5 +17,3 @@ const calculate = () => {
 };
 
 console.log(calculate());
-
-module.exports = { average, square, cube, calculate };

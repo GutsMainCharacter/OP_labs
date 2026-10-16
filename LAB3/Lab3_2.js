@@ -14,5 +14,3 @@ const generateKey = (length, characters) => {
 const characters = 'jhhfgrrgrdg5yz05364tfsf78fgad9';
 const key = generateKey(38, characters);
 console.log(key);
-
-module.exports = { generateKey };

@@ -23,5 +23,3 @@ const iface = {
 };
 
 console.log(introspect(iface));
-
-module.exports = { introspect };

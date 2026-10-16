@@ -11,5 +11,3 @@ console.log(ipToInt('135.8967.1.177'));
 console.log(ipToInt('333.152.144.888'));
 console.log(ipToInt('0.0.0.0'));
 console.log(ipToInt('5.5.5.5'));
-
-module.exports = { ipToInt };

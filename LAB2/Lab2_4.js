@@ -16,5 +16,3 @@ const createUser = (name, city) => ({ name, city });
 
 fn();
 console.dir(createUser('Duolingo', 'Duo_APP'));
-
-module.exports = { fn, createUser };

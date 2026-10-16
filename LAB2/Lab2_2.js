@@ -20,5 +20,3 @@ const rangeOdd = (start, end) => {
 
 console.log(range(15, 30));
 console.log(rangeOdd(15, 30));
-
-module.exports = { range, rangeOdd };

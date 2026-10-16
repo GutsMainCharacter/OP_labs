@@ -19,5 +19,3 @@ const findPhoneByName = (name) => {
 
 console.log(findPhoneByName('mobilization'));
 console.log(findPhoneByName('Illia'));
-
-module.exports = { findPhoneByName };
